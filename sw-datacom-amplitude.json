@@ -2,37 +2,37 @@
   {
     "key" : "HCVR",
     "name" : "SW-DM4360-HCVR",
-    "latitude" : -1.4367577,
-    "longitude" : -48.4925993
+    "latitude" : -1.4365479432740706,
+    "longitude" : -48.49236146906149
   },
   {
     "key" : "HCAB",
     "name" : "SW-DM4050-HCAB",
-    "latitude" : -1.4089316,
-    "longitude" : -48.4387676
+    "latitude" : -1.4095514450806716,
+    "longitude" : -48.43701530455859
   },
   {
     "key" : "CDAM",
     "name" : "SW-DM4370-CDAM",
-    "latitude" : -1.3781359,
-    "longitude" : -48.4424413
+    "latitude" : -1.3782667445413166,
+    "longitude" : -48.44206469284779
   },
   {
     "key" : "COMPACTA2",
     "name" : "SW-DM4370-COMPACTA2",
-    "latitude" : -1.4429622,
-    "longitude" : -48.4770289
+    "latitude" : -1.4426920860946715,
+    "longitude" : -48.47668377829312
   },
   {
     "key" : "HCAM",
     "name" : "SW-DM4370-HCAM",
-    "latitude" : -1.3089486,
-    "longitude" : -48.4611646
+    "latitude" : -1.3087263006299552,
+    "longitude" : -48.46008077719669
   },
   {
     "key" : "SHOWROOM",
     "name" : "SW-DM4370-SHOWROOM",
-    "latitude" : -1.4564563,
-    "longitude" : -48.4886777
+    "latitude" : -1.4562798599939766,
+    "longitude" : -48.48820683219831
   }
 ]
